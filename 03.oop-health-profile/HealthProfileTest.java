@@ -40,15 +40,15 @@ public class HealthProfileTest
 
         System.out.printf(
             "The maximum heart rate the patient can reach is %.2f bpm, and the recommended target heart rate range is %s.%n",
-            patient1.getMaximumHeartRate(),
-            patient1.getTargetHeartRateRange()
+            patient1.calculateMaximumHeartRate(),
+            patient1.calculateTargetHeartRateRange()
         );
 
         // Test BMI Calculation
 
         System.out.printf(
             "The patient's BMI is %.2f.%n%n",
-            patient1.getBMI()
+            patient1.calculateBMI()
         );
 
         // Create a New Patient to Test the Setter Methods
@@ -115,13 +115,13 @@ public class HealthProfileTest
 
         System.out.printf(
             "The maximum heart rate the patient can reach is %.2f bpm, and the recommended target heart rate range is %s.%n",
-            patient2.getMaximumHeartRate(),
-            patient2.getTargetHeartRateRange()
+            patient2.calculateMaximumHeartRate(),
+            patient2.calculateTargetHeartRateRange()
         );
 
         System.out.printf(
             "The patient's BMI is %.2f.%n",
-            patient2.getBMI()
+            patient2.calculateBMI()
         );
     }
 }
