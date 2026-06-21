@@ -8,6 +8,12 @@ This repository was created to organize practical examples and educational proje
 
 Its goal is to provide simple, well-documented examples that demonstrate how fundamental Java concepts are applied in practice.
 
+## Academic Context
+
+This repository was developed as part of my studies in Java programming and Object-Oriented Programming (OOP).
+
+The projects and examples included here were created to reinforce theoretical concepts through practical implementation, serving both as a personal learning resource and as educational material for other students interested in learning Java.
+
 ## Topics Covered
 
 > ⚠️ This list is continuously updated as new projects are added.
