@@ -45,6 +45,6 @@ java-fundamentals/
 │
 ├── 03.oop-health-profile/
 │
-├── 04.if-else if-else//
+├── 04.if-else/
 │
 └── README.md
