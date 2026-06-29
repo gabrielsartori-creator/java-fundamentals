@@ -29,6 +29,10 @@ The projects and examples included here were created to reinforce theoretical co
 - Constructors
 - Encapsulation
 - Getters and Setters
+- Conditional Statements (`if`, `else if`, `else`)
+- Relational Operators
+- Decision Making
+- Integer Arithmetic
 
 ## Repository Structure
 
