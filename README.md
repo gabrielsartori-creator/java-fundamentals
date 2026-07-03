@@ -54,9 +54,9 @@ java-fundamentals/
 │
 ├── 01. Print, Println and Printf/
 │
-├── 02.Scanner/
+├── 02. Scanner/
 │
-├── 03.Intro to OOP/
+├── 03. Intro to OOP/
 │
 ├── 04. If and Else/
 │
