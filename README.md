@@ -16,23 +16,38 @@ The projects and examples included here were created to reinforce theoretical co
 
 ## Topics Covered
 
-> ⚠️ This list is continuously updated as new projects are added.
+## Topics Covered
+⚠️ This list is continuously updated as new projects are added.
 
+Java Fundamentals
 - Variables and Data Types
-- Input and Output
-- `print()`, `println()` and `printf()`
-- User Input with `Scanner`
-- Conditional Statements
+- Integer Arithmetic
 - Methods
-- Object-Oriented Programming (OOP)
+
+Input and Output
+- Input and Output
+- print(), println() and printf()
+- User Input with Scanner
+
+Control Flow
+- Conditional Statements (if, else if, else)
+- Decision Making
+- Relational Operators
+- while Loops
+- Repetition Structures
+- Sentinel-Controlled Repetition
+- Loop Control
+
+Programming Techniques
+- Counters
+- Accumulators
+- Average Calculation
+
+Object-Oriented Programming (OOP)
 - Classes and Objects
 - Constructors
 - Encapsulation
 - Getters and Setters
-- Conditional Statements (`if`, `else if`, `else`)
-- Relational Operators
-- Decision Making
-- Integer Arithmetic
 
 ## Repository Structure
 
