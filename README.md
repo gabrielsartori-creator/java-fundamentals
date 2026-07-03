@@ -15,8 +15,6 @@ This repository was developed as part of my studies in Java programming and Obje
 The projects and examples included here were created to reinforce theoretical concepts through practical implementation, serving both as a personal learning resource and as educational material for other students interested in learning Java.
 
 ## Topics Covered
-
-## Topics Covered
 ⚠️ This list is continuously updated as new projects are added.
 
 Java Fundamentals
