@@ -22,7 +22,7 @@ This project aims to demonstrate:
 ## Project Structure
 
 ```text
-04.if-else/
+04. If and Else/
 │
 ├── WorldCupGroupPointsSimulator.java
 └── README.md
