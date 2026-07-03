@@ -39,12 +39,14 @@ The projects and examples included here were created to reinforce theoretical co
 ```text
 java-fundamentals/
 │
-├── 01.print-println-printf/
+├── 01. Print, Println and Printf/
 │
 ├── 02.Scanner/
 │
-├── 03.oop-health-profile/
+├── 03.Intro to OOP/
 │
-├── 04.if-else/
+├── 04. If and Else/
+│
+├── 05. While/
 │
 └── README.md
