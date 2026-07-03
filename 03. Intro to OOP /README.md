@@ -20,7 +20,7 @@ This project aims to demonstrate:
 ## Project Structure
 
 ```text
-03-oop-health-profile/
+03. Intro to OOP/
 │
 ├── HealthProfile.java
 ├── HealthProfileTest.java
